@@ -385,11 +385,9 @@
 </div>
 <a href="#" class="top"><i class='bx bx-up-arrow-alt' style='color:#00ffe8' ></i></a>
 
-
-
-
-
-
     <script src="main.js"></script>
 </body>
 </html>
+
+<?php
+?>
